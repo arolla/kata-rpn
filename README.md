@@ -1,4 +1,4 @@
-# rpn-calisthenics-object
+# rpn-calculator
 kata de calculatrice en reverse polish notation (version calisthenics objects)
 Vous avez 1h pour coder ce calculateur, la seule contrainte est de le faire en TDD
 
