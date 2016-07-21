@@ -14,7 +14,7 @@ _Des exemples valent mieux qu'un long discours:_
 
 - 6 2 /  => 6/2 => 3
 
-- 5 2- 7 + => 10
+- 5 2 - 7 + => 10
 
 - 7 5 2 - + => 10
 
@@ -44,6 +44,3 @@ After implementations was done, try to follows theses constraints:
 - No Getters/Setters/Properties
 
 more détails here: http://williamdurand.fr/2013/06/03/object-calisthenics/
-
-
-
