@@ -26,3 +26,24 @@ _Des exemples valent mieux qu'un long discours:_
 
 - 5 4 1 2 + × + => 5 + (4 x (1+2)) 
 
+## vous pouvez implementer l'operateur SQR
+qui met au carré le dernier operande
+3 2 + SQR => 5 * 5 => 25
+
+## Object calisthenics
+After implementations was done, try to follows theses constraints:
+
+- Only One Level Of Indentation Per Method
+- Don’t Use The ELSE Keyword
+- Wrap All Primitives And Strings
+- First Class Collections (Collection encapsulation)
+- One Dot Per Line (don't break Demeter Law)
+- Don’t Abbreviate (abbrevation needs is a smell of too complex method/class/ect)
+- Keep All Entities Small (30 lines max)
+- No Classes With More Than Two Instance Variables
+- No Getters/Setters/Properties
+
+more détails here: http://williamdurand.fr/2013/06/03/object-calisthenics/
+
+
+
