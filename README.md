@@ -24,6 +24,5 @@ _Des exemples valent mieux qu'un long discours:_
 
 - 1 2 + 4 × 5 + 3 − => ((1+2) x 4) + 5 - 3 => 14
 
-- 5 4 1 2 + × + − => 5 + (4 x (1+2)) 
-
+- 5 4 1 2 + × + => 5 + (4 x (1+2)) 
 
